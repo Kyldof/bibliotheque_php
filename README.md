@@ -1,8 +1,13 @@
 # bibliotheque_php
 
-ce projet requière plusieur installation :
-sudo apt install apache2
-sudo apt install php libapache2-mod-php
-sudo apt install mariadb-server
-sudo apt-get install php-imagick
+<p>ce projet requiert plusieurs installations :</p>
+<ul>
+  <li>sudo apt install apache2</li>
+  <li>sudo apt install php libapache2-mod-php</li>
+  <li>sudo apt install mariadb-server</li>
+  <li>sudo apt-get install php-imagick</li>
+</ul>
+
+
+
 
